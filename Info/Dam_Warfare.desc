@@ -1,0 +1,11 @@
+<map>
+	<name> Dam_Warfare </name>
+	<briefing locid="Find your parachute key! A Chinese shrine and village at the base of the dam was flooded. American troups seized the opportunity to setup headquarters on the opposite side of the dam. The map is geared towards massive scale and aims to provide a field of battle for every type of player. I tried to uses every Object in the game and emphasized amazing aspects of the game that most other maps overlooked.">map description for modders maps not localized (english only)</briefing>
+	<music> levels/Dam_Warfare/info/bfremix.ogg </music>
+	<modes>
+		<mode type="gpm_cq">
+			<maptype players="64" type="headon" locid="GAMEMODE_DESCRIPTION_headon">Unlocalized test for this mode on this map</maptype>
+		</mode>
+	</modes>
+</map>
+
